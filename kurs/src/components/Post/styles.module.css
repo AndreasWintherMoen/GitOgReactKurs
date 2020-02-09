@@ -1,0 +1,14 @@
+.post {
+    color: white;
+    background-color: #019;
+    width: 50%;
+    margin: 0 auto;
+}
+
+.username {
+    color: red;
+}
+
+p {
+    color: green;
+}
