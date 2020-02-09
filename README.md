@@ -1,4 +1,5 @@
 # Git 101
+test
 
 **git add [filename]** Adds a file to the staging area  
   **git commit -m "commit message"** Commits (saves) all changes in staging  
